@@ -1,6 +1,8 @@
 # video-transcript-obsidian
 
-把视频网站字幕、本地字幕文件或粘贴的 transcript 整理成 Obsidian 友好的 Markdown 笔记。
+把视频网站字幕、本地字幕文件或粘贴的 transcript 并配合[`obsidian-markdown-skill`](https://github.com/ztianyi939-wq/obsidian-markdown-skill.git) 将文稿整理成 Obsidian 友好的 Markdown 笔记。
+
+##注意：需要这两个Skill 配合使用效果更佳。
 
 这个 Skill 的目标不是下载视频，也不是自动破解没有字幕的视频；它负责把已经公开可取的字幕或用户提供的转录文本，转换成两类可复习资料：
 
