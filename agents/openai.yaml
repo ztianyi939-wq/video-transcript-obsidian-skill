@@ -1,0 +1,4 @@
+interface:
+  display_name: "Video Transcript Obsidian"
+  short_description: "Turn video transcripts into Obsidian notes"
+  default_prompt: "Use $video-transcript-obsidian to fetch a YouTube transcript and create a readable Obsidian technical note."
