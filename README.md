@@ -92,7 +92,7 @@ python .\scripts\video_transcript_to_markdown.py "captions.vtt" --backend file -
 
 This skill only uses transcripts or subtitles that are available to you. It does not bypass platform restrictions and does not include audio transcription. If a video has no accessible subtitles, provide a local subtitle file or pasted transcript.
 
-For best Obsidian formatting, use this skill together with `$obsidian-markdown`.
+For best Obsidian formatting, use this skill together with [`$obsidian-markdown`](https://github.com/ztianyi939-wq/obsidian-markdown-skill.git).
 
 ## Attribution
 
